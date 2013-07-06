@@ -1,4 +1,4 @@
 myrepo
 ======
 
-Test Repository
+Test Repository for StartUp Course
